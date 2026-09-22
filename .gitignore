@@ -1,6 +1,7 @@
-palworld
+palworld*
 .idea
 !charts/*
 values*.yaml
 .env
+.env.pvp
 .vscode
